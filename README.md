@@ -1,16 +1,16 @@
-# GenAI_SQL_Intern_Task_Csireesha
+# 🤖 GenAI_SQL_Intern_Task_Csireesha
 
-**Submission for GenAI Internship Task (VIT - Anarix.ai)**  
-**AI-Powered SQL Assistant using Gemini + SQLite + Jupyter/Colab**
+🎓 **Submission for GenAI Internship Task (VIT - Anarix.ai)**  
+📊 **AI-Powered SQL Assistant using Gemini + SQLite + Jupyter/Colab**
 
 ---
 
-## Project Title
+## 📌 Project Title
 **Build an AI Agent to Answer E-Commerce Data Questions**
 
 ---
 
-## Project Overview
+## 📖 Project Overview
 
 This project builds an AI assistant that:
 - Understands natural language questions
@@ -21,12 +21,12 @@ This project builds an AI assistant that:
 
 ---
 
-## Datasets Used
+## 🗃️ Datasets Used
 
 The following datasets were uploaded and used in the project:
-1.  `Product-Level Ad Sales and Metrics`
-2.  `Product-Level Total Sales and Metrics`
-3.  `Product-Level Eligibility Table`
+1. 📂 `Product-Level Ad Sales and Metrics`
+2. 📂 `Product-Level Total Sales and Metrics`
+3. 📂 `Product-Level Eligibility Table`
 
 These are converted to SQLite tables:
 - `adsales`
@@ -35,18 +35,18 @@ These are converted to SQLite tables:
 
 ---
 
-## Task Objective
+## 🎯 Task Objective
 
 The agent should:
-- Accept a natural language question
-- Translate it into a **valid SQL query**
-- Execute it on an **SQLite database**
-- Return clean, human-readable answers
-- (Bonus) Create **charts** for selected queries
+- ✅ Accept a natural language question
+- ✅ Translate it into a **valid SQL query**
+- ✅ Execute it on an **SQLite database**
+- ✅ Return clean, human-readable answers
+- ✅ (Bonus) Create **charts** for selected queries
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Tool / Library        | Description                          |
 |------------------------|--------------------------------------|
@@ -60,7 +60,7 @@ The agent should:
 
 ---
 
-### Upload Required Files
+### 1️⃣ Upload Required Files
 Upload the 3 provided datasets using:
 ```python
 from google.colab import files
